@@ -1,0 +1,33 @@
+{
+  "author": "Pixelastic <tim@pixelastic.com>",
+  "description": "Helper for videogames.pixelastic.com assets",
+  "devDependencies": {
+    "aberlaas": "0.11.0"
+  },
+  "files": [
+    "build/"
+  ],
+  "bin": {
+    "videogames-helper": "bin/videogames-helper"
+  },
+  "license": "MIT",
+  "main": "build/index.js",
+  "name": "@pixelastic/videogames-helper",
+  "repository": "git@github.com:pixelastic/videogames-helper.git",
+  "scripts": {
+    "build": "./scripts/build",
+    "build:watch": "./scripts/build-watch",
+    "ci": "./scripts/ci",
+    "husky:precommit": "./scripts/husky-precommit",
+    "lint": "./scripts/lint",
+    "lint:fix": "./scripts/lint-fix",
+    "release": "./scripts/release",
+    "test": "./scripts/test",
+    "test:watch": "./scripts/test-watch"
+  },
+  "version": "0.0.1",
+  "dependencies": {
+    "firost": "0.20.0",
+    "golgoth": "0.6.4"
+  }
+}
