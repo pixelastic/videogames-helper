@@ -1,3 +1,15 @@
+## [0.0.4](https://github.com/pixelastic/videogames-helper/compare/0.0.3...0.0.4) (2020-01-08)
+
+
+### Bug Fixes
+
+* **deps:** update dependency firost to v0.21.0 ([8c9ec7b](https://github.com/pixelastic/videogames-helper/commit/8c9ec7b307a934ae11a0b0b0cf81d3ed35abe0be))
+
+
+### Features
+
+* **release:** Add release script ([abaf0f8](https://github.com/pixelastic/videogames-helper/commit/abaf0f8a378e9cd0b8cda46c58586fdb17b3af94))
+
 ## [0.0.3](https://github.com/pixelastic/videogames-helper/compare/0.0.2...0.0.3) (2020-01-07)
 
 
