@@ -1,3 +1,10 @@
+## [0.0.5](https://github.com/pixelastic/videogames-helper/compare/0.0.4...0.0.5) (2020-01-08)
+
+
+### Features
+
+* **deploy:** Also deploy cover.jpg ([1221428](https://github.com/pixelastic/videogames-helper/commit/1221428887fa6e0c09d2d073fa4dc45e5ddc6ba2))
+
 ## [0.0.4](https://github.com/pixelastic/videogames-helper/compare/0.0.3...0.0.4) (2020-01-08)
 
 
