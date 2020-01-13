@@ -1,3 +1,10 @@
+## [0.0.6](https://github.com/pixelastic/videogames-helper/compare/0.0.5...0.0.6) (2020-01-13)
+
+
+### Bug Fixes
+
+* **build:** Stop failing on top level cover imag ([3f6a7ae](https://github.com/pixelastic/videogames-helper/commit/3f6a7ae8dc926c534a5948edb8f29f06cb10a2be))
+
 ## [0.0.5](https://github.com/pixelastic/videogames-helper/compare/0.0.4...0.0.5) (2020-01-08)
 
 
