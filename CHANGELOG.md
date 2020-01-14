@@ -1,3 +1,10 @@
+## [0.0.7](https://github.com/pixelastic/videogames-helper/compare/0.0.6...0.0.7) (2020-01-14)
+
+
+### Features
+
+* **text:** Include potential textual content ([06c6e95](https://github.com/pixelastic/videogames-helper/commit/06c6e952684258e3b307608273b7f1c19008b72d))
+
 ## [0.0.6](https://github.com/pixelastic/videogames-helper/compare/0.0.5...0.0.6) (2020-01-13)
 
 
