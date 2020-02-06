@@ -1,8 +1,6 @@
 {
   "extends": [
     "config:js-lib",
-    "aberlaas",
-    "aberlaas:automergeSilently",
-    "aberlaas:scheduleAtAnyTime"
+    "aberlaas"
   ]
 }
