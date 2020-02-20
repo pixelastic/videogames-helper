@@ -2,7 +2,7 @@
   "author": "Pixelastic <tim@pixelastic.com>",
   "description": "Helper for videogames.pixelastic.com assets",
   "devDependencies": {
-    "aberlaas": "0.11.4"
+    "aberlaas": "1.0.3"
   },
   "files": [
     "build/"
@@ -27,8 +27,8 @@
   },
   "version": "0.0.7",
   "dependencies": {
-    "firost": "0.21.0",
-    "golgoth": "0.6.4",
+    "firost": "1.1.1",
+    "golgoth": "1.0.4",
     "minimist": "1.2.0"
   }
 }
