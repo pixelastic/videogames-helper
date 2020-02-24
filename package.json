@@ -1,22 +1,25 @@
 {
   "author": "Pixelastic <tim@pixelastic.com>",
-  "description": "Helper for videogames.pixelastic.com assets",
-  "devDependencies": {
-    "aberlaas": "1.0.3"
-  },
-  "files": [
-    "build/"
-  ],
   "bin": {
     "videogames-helper": "bin/videogames-helper"
   },
+  "dependencies": {
+    "firost": "1.1.1",
+    "golgoth": "1.0.4",
+    "minimist": "1.2.0"
+  },
+  "description": "Helper for videogames.pixelastic.com assets",
+  "devDependencies": {
+    "aberlaas": "1.1.1"
+  },
+  "files": [
+    "lib/*.js"
+  ],
   "license": "MIT",
-  "main": "build/index.js",
+  "main": "lib/main.js",
   "name": "@pixelastic/videogames-helper",
   "repository": "git@github.com:pixelastic/videogames-helper.git",
   "scripts": {
-    "build": "./scripts/build",
-    "build:watch": "./scripts/build-watch",
     "ci": "./scripts/ci",
     "husky:precommit": "./scripts/husky-precommit",
     "lint": "./scripts/lint",
@@ -25,10 +28,5 @@
     "test": "./scripts/test",
     "test:watch": "./scripts/test-watch"
   },
-  "version": "0.0.7",
-  "dependencies": {
-    "firost": "1.1.1",
-    "golgoth": "1.0.4",
-    "minimist": "1.2.0"
-  }
+  "version": "0.0.7"
 }
