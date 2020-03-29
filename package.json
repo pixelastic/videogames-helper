@@ -14,7 +14,8 @@
   },
   "files": [
     "bin/",
-    "lib/*.js"
+    "lib/*.js",
+    "lib/commands/*.js"
   ],
   "license": "MIT",
   "main": "lib/main.js",
