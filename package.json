@@ -4,13 +4,13 @@
     "videogames-helper": "bin/videogames-helper"
   },
   "dependencies": {
-    "firost": "1.6.0",
+    "firost": "1.7.0",
     "golgoth": "1.2.0",
     "minimist": "1.2.5"
   },
   "description": "Helper for videogames.pixelastic.com assets",
   "devDependencies": {
-    "aberlaas": "1.6.2"
+    "aberlaas": "1.7.0"
   },
   "files": [
     "bin/",
