@@ -1,5 +1,5 @@
 #!/usr/bin/env node
 const helper = require('../lib/main.js');
-(async function() {
+(async function () {
   await helper.run(process.argv.slice(2));
 })();
