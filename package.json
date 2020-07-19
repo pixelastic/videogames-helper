@@ -10,7 +10,7 @@
   },
   "description": "Helper for videogames.pixelastic.com assets",
   "devDependencies": {
-    "aberlaas": "1.11.0"
+    "aberlaas": "1.12.0"
   },
   "files": [
     "bin/",
