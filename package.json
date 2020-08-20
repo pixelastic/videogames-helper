@@ -4,7 +4,7 @@
     "videogames-helper": "bin/videogames-helper"
   },
   "dependencies": {
-    "firost": "1.11.2",
+    "firost": "1.12.0",
     "golgoth": "1.4.0",
     "minimist": "1.2.5"
   },
