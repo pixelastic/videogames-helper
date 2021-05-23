@@ -30,5 +30,8 @@
     "test": "./scripts/test",
     "test:watch": "./scripts/test-watch"
   },
-  "version": "0.2.1"
+  "version": "0.2.1",
+  "engines": {
+    "node": ">=14.17.0"
+  }
 }
