@@ -6,12 +6,11 @@
   "dependencies": {
     "firost": "2.17.0",
     "golgoth": "2.1.0",
-    "minimist": "1.2.6"
-  },
-  "description": "Helper for videogames.pixelastic.com assets",
-  "devDependencies": {
+    "minimist": "1.2.6",
     "aberlaas": "1.25.0"
   },
+  "description": "Helper for videogames.pixelastic.com assets",
+  "devDependencies": {},
   "files": [
     "bin/",
     "lib/*.js",
