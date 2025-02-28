@@ -4,9 +4,9 @@
     "videogames-helper": "bin/videogames-helper"
   },
   "dependencies": {
-    "aberlaas": "1.25.1",
-    "firost": "2.17.0",
-    "golgoth": "2.1.0",
+    "aberlaas": "2.14.0",
+    "firost": "5.1.0",
+    "golgoth": "3.0.0",
     "minimist": "1.2.8"
   },
   "description": "Helper for videogames.pixelastic.com assets",
